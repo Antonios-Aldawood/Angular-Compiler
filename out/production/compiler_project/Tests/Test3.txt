@@ -1,0 +1,25 @@
+import 'language';
+
+
+const raul: string = 'real madrid legend';
+benzema = 'Better than raul';
+cristiano = 'Better than raul';
+
+raul = true;
+
+const raul = 2;
+
+class hello {
+    name: string;
+    email;
+    password;
+
+    devoted() {
+        name = email;
+        name = phoneNumber;
+    }
+}
+
+class goodbye implements hello {
+    hash;
+}

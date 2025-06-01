@@ -1,0 +1,26 @@
+import { container } from '@angular/core';
+import 'destruction';
+
+	@Container({
+		selector: 'app-brewer',
+		standalone: true,
+		template: `html`,
+	})
+
+var roman;
+roman = "super";
+greek = 22;
+
+const damon = 'hello';
+
+export class markus implements OnInit {
+	name: string = 'Malfoy';
+	phone: number = 4455;
+	email = 'darwin';
+
+	ngOnInit() {
+		console.log('Hello Romans',);
+	}	
+}
+
+var edward = 1310;

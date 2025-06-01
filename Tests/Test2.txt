@@ -1,0 +1,31 @@
+import { component } from '@angular/core';
+
+	@Component({
+		selector: 'app-brewer',
+		standalone: true,
+		template: `html`,
+	})
+
+if (ruber == 'student') {
+	var ruber: boolean = true;
+}
+
+export class component implements OnChanges {
+	password: any;
+
+	ngOnChanges() {
+		password = 'new password';
+	}
+}
+
+var raul = 'Legend';
+
+const truman = 'went away';
+
+export class destruction implements OnDestroy {
+
+	ngOnDestroy() {
+		console.log('destroyed',);
+		password = '';
+	}
+}
